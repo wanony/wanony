@@ -5,10 +5,13 @@
 -->
 
 I’m currently working on:
--  [Joy](https://github.com/wanony/JoyBot), an open source discord bot using the [discord.py](https://github.com/Rapptz/discord.py) library and MySQL/MariaDB.
+-  [Joy](https://github.com/wanony/JoyBot), an open source discord bot using the [nextcord](https://github.com/nextcord/nextcord) library and MySQL/MariaDB.
+-  Rewrite of Joy, instead written in Kotlin to improve maintainability. This is using the [JDA](https://github.com/dv8fromtheworld/jda) library, MariaDB and will make use of JavaCat.
+-  [JavaCat](https://github.com/wanony-bros/JavaCat), a Gfycat wrapper written in Java
 
 I’m currently learning:
--  Anything that isn't Python...
+- Kotlin
+- Ktor
 
 
 ![wanony's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanony&show_icons=true&theme=radical)
