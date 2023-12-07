@@ -8,7 +8,7 @@ I’m currently working on:
 
 -  [Joy v2](https://github.com/wanony/JoyBot/blob/main/README.md), a discord chat bot built with Kotlin, Java and the [JDA library](https://github.com/discord-jda/JDA). This is actively maintained and deployed on DigitalOcean.
 -  iOS Application development work project, written in Swift. Encorporating a PyTorch computer vision model into the application to analyse user images.
--  MikaTalk, a MERN stack AI chat site for [Mika](https://bluearchive.fandom.com/wiki/Misono_Mika) from the video game [Blue Archive](https://bluearchive.nexon.com/home). WIP using open-source LLMs for chat generation.
+-  [MikaTalk](https://github.com/wanony/mikatalk), a MERN stack AI chat site for [Mika](https://bluearchive.fandom.com/wiki/Misono_Mika) from the video game [Blue Archive](https://bluearchive.nexon.com/home). WIP using open-source LLMs for chat generation.
 -  Sudoktor, a sudoku website written in Kotlin using [Ktor](https://ktor.io/). WIP Site for playing sudoku and implementing some sudoku algorithms inspired by the leetcode 'valid sudoku' question.
 
 
