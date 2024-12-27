@@ -5,7 +5,8 @@
 -->
 
 I’m currently working on:
--  Working as an iOS Developer, mainly using Swift, SwiftUI, UIKit, Open-CV, PyTorch, CoreML and some Objective-C. Creating an application for patients and doctors to upload and check images of their skin. Skin images are processed with Open-CV before being fed to on-device ML models with either PyTorch or CoreML.
+- Full time developer, mainly working with React, TypeScript, .NET. Working on various web apps and APIs.
+-  Working as a part-time iOS Developer, mainly using Swift, SwiftUI, UIKit, Open-CV, PyTorch, CoreML and some Objective-C. Creating an application for patients and doctors to upload and check images of their skin. Skin images are processed with Open-CV before being fed to on-device ML models with either PyTorch or CoreML.
 
 Previous Projects:
 -  [Joy v2](https://github.com/wanony-bros/Joy), a discord chat bot built with Kotlin, Java and the [JDA library](https://github.com/discord-jda/JDA).
