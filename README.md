@@ -4,7 +4,7 @@
 **wanony/wanony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I’m currently working on:
+I’m currently working as:
 - Software Developer, React, TypeScript, .NET, Mobile Applications, Kotlin, Swift, Flutter. Developing several bespoke software solutions, including both web apps and mobile apps.
 - Working as a part-time iOS Developer, using Swift, SwiftUI, UIKit, Open-CV, PyTorch, CoreML. Developing an app that features real-time instance segmentation with YOLO models for skin cancer research.
 
