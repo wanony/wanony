@@ -5,8 +5,12 @@
 -->
 
 I’m currently working as:
-- Software Developer, React, TypeScript, .NET, Mobile Applications, Kotlin, Swift, Flutter. Developing several bespoke software solutions, including both web apps and mobile apps.
-- Working as a part-time iOS Developer, using Swift, SwiftUI, UIKit, Open-CV, PyTorch, CoreML. Developing an app that features real-time instance segmentation with YOLO models for skin cancer research.
+- Full Stack Software Developer, leveraging React, TypeScript, .NET, Kotlin, Swift, Flutter and more to build web and mobile applications. Developing bespoke and SaaS applications.
+- iOS Developer (Part Time), using Swift, Combine, SwiftUI, UIKit, Objective-C, PyTorch, CoreML, Java, Python and more to build an application for monitoring skin lesions.
+
+Current Projects:
+- Building a mobile app that leverages AI - link will be available soon.
+- Grinding leetcode.
 
 Previous Projects:
 -  [Joy v2](https://github.com/wanony-bros/Joy), a discord chat bot built with Kotlin, Java and the [JDA library](https://github.com/discord-jda/JDA).
